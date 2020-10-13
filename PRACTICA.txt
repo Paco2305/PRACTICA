@@ -2,3 +2,5 @@ NOMBRE José Francisco
 EDAD 19 
 JUEGOS ACTUALES COD Warzone
 JUEGOS FAVORITOS Halo
+Carrera
+Materia
